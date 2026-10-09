@@ -1,7 +1,7 @@
 <!-- 1. Una cuadricula de 32x32 tiles -->
 <!-- 2. Conseguir que la cuadricula tenga sprites -->
 
-<!-- 3. Stage  -->
+<!-- Cambio de ejemplo  -->
 
 <?php
 	include("functions.php");
