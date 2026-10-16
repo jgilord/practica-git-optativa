@@ -2,7 +2,6 @@
 <!-- 2. Conseguir que la cuadricula tenga sprites -->
 
 <!-- Cambio de ejemplo  -->
-<!-- Cambio con commit desde github  -->
 
 <?php
 	include("functions.php");
